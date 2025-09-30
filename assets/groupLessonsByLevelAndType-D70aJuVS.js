@@ -1,0 +1,1 @@
+const t=["learn","practice","module"];function l(s,n){const e={};for(const o of n){e[o.id]={};for(const c of t)e[o.id][c]=[]}for(const o of s)e[o.levelId][o.lessonType].push(o);return e}export{l as g};
