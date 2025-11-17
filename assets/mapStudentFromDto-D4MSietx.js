@@ -1,0 +1,1 @@
+const a=e=>({accessType:e.access_type,className:e.class_name,createdTime:new Date(e.created_time),email:e.email,grade:e.grade,id:e.id,lastActivityTime:new Date(e.last_activity_time),level:e.level,name:e.name,smallAvatarUrl:e.small_avatar_url,surname:e.surname,xp:e.xp});export{a as m};
