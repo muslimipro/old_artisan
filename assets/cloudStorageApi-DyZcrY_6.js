@@ -1,0 +1,1 @@
+import{I as t}from"./index-CnKe9SRm.js";const r={uploadFile:o,deleteFile:l};async function o(e,a=""){return await t.post("v2/lesson/upload-file?prefix="+a,e,{headers:{"Content-Type":"multipart/form-data"}})}async function l(e){return await t.delete("v2/lesson/delete-file",{params:{url:e}})}export{r as C};

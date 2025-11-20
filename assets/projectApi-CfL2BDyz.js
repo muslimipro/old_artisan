@@ -1,0 +1,1 @@
+import{I as t}from"./index-CnKe9SRm.js";const i={getProjects:n,submitProject:e};async function n(){return await t.get("v2/projects")}async function e(s,o){const r=JSON.parse(JSON.stringify(o));return await t.post(`v2/submission/project/${s}/submit`,{student_answer:r})}export{i as P};
