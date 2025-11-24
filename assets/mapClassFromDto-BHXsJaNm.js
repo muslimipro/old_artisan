@@ -1,0 +1,1 @@
+const a=e=>({code:e.code,createdTime:new Date(e.created_time),creator:e.creator,creatorName:e.creator_name,creatorEmail:e.creator_email,id:e.id,isActive:e.is_active,lastUpdatedTime:new Date(e.last_updated_time),name:e.name,schoolName:e.school_name,schoolId:e.school_id,studentCount:e.student_count});export{a as m};
