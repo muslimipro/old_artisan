@@ -1,0 +1,1 @@
+import{_ as s}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{c as o,j as r,o as t}from"./index-BwcPjnJP.js";const c={},n={class:"bg-white rounded-md flex-grow px-4 py-2 border"};function a(d,e){return t(),o("div",n,e[0]||(e[0]=[r("div",{class:"text-lg"},"Bugs and issues",-1)]))}const f=s(c,[["render",a]]);export{f as default};
